@@ -1,0 +1,39 @@
+body {
+    background: white
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  padding: 5px
+}
+h1 {
+    color: white; text-align: center; font-family: 'century Gothic'; border: 5px solid darkblue;padding: 15px; background: darkcyan;
+}
+h3 {
+    color:midnightblue; font-family: 'century Gothic';
+}
+p.intro {
+   color:white; 
+   border-radius: 25px;
+   background:dodgerblue;
+   padding: 20px;
+   width: 350px;
+   height: 80px;
+}
+p.jobposition {
+    color:green; font-family: 'century Gothic';
+}
+p.period {
+    color:darkcyan;font-family: 'century Gothic'
+}
+p.skills {
+    color:darkgoldenrod;font-family: 'century Gothic'
+}
+p {
+    color: black; font-family: 'century Gothic';
+}
+li {
+    color: black; font-family: 'century Gothic';
+}
+a#hautedepage {
+    text-align:center;display:block;}
